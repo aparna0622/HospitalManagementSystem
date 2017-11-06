@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 03 21:56:15 CDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-84f5-147f-000008948b60 
+on database directory memory:C:\Users\aananthanaraya\Documents\workspace-sts-3.9.0.RELEASE\HospitalManagementSystem\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/aananthanaraya/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_101-b13
+user.dir=C:\Users\aananthanaraya\Documents\workspace-sts-3.9.0.RELEASE\HospitalManagementSystem
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
